@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <string>
 
 typedef std::vector<int> Point;
 typedef std::vector<std::vector<char>> Grid;
